@@ -3,7 +3,7 @@
 
 This project involves developing a version control system using Git, develop the website on a linux environment and deploy it on an AWS EC2 instance.
 
-I have been assigned to develop an epcommerce website for a new online marketplace named `MarketPeak`. The website template I used was gotten from toolplate.
+I have been assigned to develop an e-commerce website for a new online marketplace named `MarketPeak`. The website template I used was gotten from toolplate.
 
 ## NOW LET'S DIVE INTO HOW THIS PROJECT WAS DONE
 
