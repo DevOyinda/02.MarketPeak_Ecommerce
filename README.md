@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introduction to Cloud Computing.
 ## PROJECT 3: MarketPeak E-Commerce Website Deployment.
 
