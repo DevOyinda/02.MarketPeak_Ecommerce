@@ -1,5 +1,5 @@
 # Introduction to Cloud Computing.
-## PROJECT 3: MarketPeak E-Commerce Website Deployment.
+## PROJECT 2: MarketPeak E-Commerce Website Deployment.
 
 This project involves developing a version control system using Git, develop the website on a linux environment and deploy it on an AWS EC2 instance.
 
